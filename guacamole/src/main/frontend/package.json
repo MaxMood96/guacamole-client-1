@@ -27,7 +27,7 @@
         "exports-loader": "^1.1.1",
         "find-package-json": "^1.2.0",
         "google-closure-compiler": "20210302.0.0",
-        "html-webpack-plugin": "^4.5.2",
+        "html-webpack-plugin": "^5.5.0",
         "mini-css-extract-plugin": "^1.5.0",
         "webpack": "^4.46.0",
         "webpack-cli": "^4.6.0"
