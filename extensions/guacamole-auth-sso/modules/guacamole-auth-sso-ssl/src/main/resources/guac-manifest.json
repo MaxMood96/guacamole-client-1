@@ -1,6 +1,6 @@
 {
 
-    "guacamoleVersion" : "1.5.3",
+    "guacamoleVersion" : "1.5.5",
 
     "name"      : "SSL Authentication Extension",
     "namespace" : "ssl",
