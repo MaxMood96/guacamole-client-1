@@ -22,7 +22,7 @@
         "yaml": "^2.2.2"
     },
     "devDependencies": {
-        "@babel/core": "^7.20.12",
+        "@babel/core": "^7.26.10",
         "@babel/preset-env": "^7.20.2",
         "babel-loader": "^8.3.0",
         "clean-webpack-plugin": "^4.0.0",
